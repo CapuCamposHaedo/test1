@@ -5,7 +5,7 @@
  *      Author: Santiago
  */
 
-#include "Rectangulo.h"
+#include <Rectangulo.h>
 
 Rectangulo::Rectangulo(Punto * v1, Punto* v2, Punto* v3, Punto* v4)
 {

@@ -10,11 +10,11 @@
 
 #include "Manager.h"
 
-class Ususario
+class Usuario
 {
 public:
-	Ususario();
-	virtual ~Ususario();
+	Usuario();
+	virtual ~Usuario();
 	void menu();
 
 private:
@@ -30,5 +30,6 @@ private:
 	Manager figManager;
 
 };
+
 
 #endif /* USUSARIO_H_ */

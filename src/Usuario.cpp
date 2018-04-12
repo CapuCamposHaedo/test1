@@ -5,20 +5,20 @@
  *      Author: Santi
  */
 
-#include "Ususario.h"
+#include <Usuario.h>
 
-Ususario::Ususario()
+Usuario::Usuario()
 {
 	salir = false;
 
 }
 
-Ususario::~Ususario()
+Usuario::~Usuario()
 {
 	// TODO Auto-generated destructor stub
 }
 
-void Ususario::menu()
+void Usuario::menu()
 {
 	do
 	{
@@ -26,14 +26,14 @@ void Ususario::menu()
 	} while (!salir);
 }
 
-void Ususario::crearCirculo()
+void Usuario::crearCirculo()
 {
 }
 
-void Ususario::crearRectangulo()
+void Usuario::crearRectangulo()
 {
 }
 
-void Ususario::crearTriangulo()
+void Usuario::crearTriangulo()
 {
 }

@@ -5,7 +5,7 @@
  *      Author: Santiago
  */
 
-#include "Punto.h"
+#include <Punto.h>
 
 Punto::Punto(int x, int y) {
 	this->x = x;

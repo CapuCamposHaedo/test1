@@ -5,7 +5,7 @@
  *      Author: Santiago
  */
 
-#include "Figura.h"
+#include <Figura.h>
 
 Figura::Figura() {
 	// TODO Auto-generated constructor stub

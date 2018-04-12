@@ -5,7 +5,7 @@
  *      Author: Santiago
  */
 
-#include "Triangulo.h"
+#include <Triangulo.h>
 
 Triangulo::Triangulo(Punto* v1, Punto* v2, Punto* v3)
 {
